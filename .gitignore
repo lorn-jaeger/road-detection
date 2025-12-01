@@ -1,3 +1,4 @@
 notebooks/data/**
+*.pth
 !notebooks/data/instructions.md
 
